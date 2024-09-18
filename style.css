@@ -1,0 +1,36 @@
+:root {
+    --branco-principal: rgb(255, 255, 255);
+    
+}
+.secundario__imagem {
+    width: 80%;
+}
+
+.secundario {
+    align-items: center;
+    margin: 0 10em;
+}
+
+.descricao__titulo {
+    font-weight: 800;
+    font-size: 48px;
+    color: var(--branco-principal);
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    margin-left: 0.1em;
+    margin-right: 0.5em;
+}
+
+.descricao__texto{
+    color:blue;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    margin-left: 0.1em;
+    margin-right: 0.5em;
+}
+
+body {
+    background: violet;
+}
