@@ -31,6 +31,21 @@
     margin-right: 0.5em;
 }
 
+
+.container__descricao2 {
+    padding: 2em;
+    color:aqua;
+}
+
 body {
     background: violet;
+}
+
+.secundario__botao {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.png/250px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.png);
+    display: block;
+    margin-top: 1em;
+    width: 50px;
+    height: 50px;
+    
 }
